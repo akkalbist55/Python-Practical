@@ -1,0 +1,15 @@
+x = 'akkal'
+#int (x)
+str(x)
+repr(x)
+#eval(x)
+tuple(x)
+list(x)
+set(x)
+#dict(x)
+#char(x)
+#unichr(x)
+#ord(x)
+#hex(x)
+#oct(x)
+print x
